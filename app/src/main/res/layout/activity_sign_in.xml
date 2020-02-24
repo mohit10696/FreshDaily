@@ -50,6 +50,7 @@
                     android:backgroundTint="@color/CyanP"
                     android:digits="1234567890"
                     android:ems="10"
+                    android:textCursorDrawable="@color/CyanP"
                     android:fontFamily="@font/noto_sans"
                     android:textSize="@dimen/_12ssp"
                     android:hint="@string/login"
